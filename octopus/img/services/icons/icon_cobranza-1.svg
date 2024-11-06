@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="143" height="104" viewBox="0 0 143 104">
+  <g id="Grupo_4747" data-name="Grupo 4747" transform="translate(-0.475)">
+    <g id="icon_cobranza" transform="translate(18.475 27.908)">
+      <g id="Grupo_4104" data-name="Grupo 4104" transform="translate(0 0)">
+        <g id="Grupo_4103" data-name="Grupo 4103">
+          <circle id="Elipse_25" data-name="Elipse 25" cx="12.971" cy="12.971" r="12.971" transform="translate(3.461)" fill="#fff"/>
+          <path id="Trazado_21384" data-name="Trazado 21384" d="M1101.041,535.451c-9.074,0-16.432,5.808-16.432,12.972v21.094h32.865V548.423C1117.475,541.259,1110.117,535.451,1101.041,535.451Z" transform="translate(-1084.609 -507.248)" fill="#fff"/>
+          <circle id="Elipse_26" data-name="Elipse 26" cx="12.971" cy="12.971" r="12.971" transform="translate(41.659)" fill="#fff"/>
+          <path id="Trazado_21385" data-name="Trazado 21385" d="M1116.887,535.451c-9.077,0-16.435,5.808-16.435,12.972v21.094h32.868V548.423C1133.321,541.259,1125.964,535.451,1116.887,535.451Z" transform="translate(-1062.257 -507.248)" fill="#fff"/>
+        </g>
+      </g>
+      <text id="_" data-name="$" transform="translate(83.133 44.927)" fill="#fff" font-size="45" font-family="MyriadPro-Regular, Myriad Pro"><tspan x="0" y="0">$</tspan></text>
+    </g>
+    <rect id="Rectángulo_2731" data-name="Rectángulo 2731" width="143" height="104" transform="translate(0.475)" fill="none"/>
+  </g>
+</svg>

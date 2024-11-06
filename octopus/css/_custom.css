@@ -1,0 +1,84 @@
+
+/*-- Estilos sección Contact Center --*/
+
+/* ===================================
+   About
+====================================== */
+
+ .parallax-about-contact-center{
+    background-color: #E64A1B;
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ .parallax-about-contact-center .main-title{
+    margin-top: 10px;
+ }
+ 
+ 
+ .btn-setting {
+    color: #fff;
+    margin: 0 0.5em;
+    padding: 9px 34px;
+    width: auto;
+    display: inline-block;
+    font-weight: 400;
+    line-height: 25px;
+    font-size: 15px;
+    text-align: center;
+    -webkit-border-radius: 36px;
+    border-radius: 36px;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    border: 2px solid #fff;
+    -webkit-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease !important;
+}
+
+/*-- Use For Custom Styling --*/
+
+
+/*-- Use For Custom Styling --*/
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: transparent;
+    border: 1px solid white;
+  }
+  .checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+  }
+  .container input:checked ~ .checkmark:after {
+    display: block;
+  }
+  .container .checkmark:after {
+    left: 9px;
+    top: 5px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+  #inputCheck{
+      display: none;
+  }
+
+  .carousel-control-next, .carousel-control-prev{
+      background: transparent;
+      border: none;
+  }
+.container-about{
+  width: 100%;
+  padding: 0 3em;
+}

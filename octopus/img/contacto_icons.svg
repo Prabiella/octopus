@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94" height="95" viewBox="0 0 94 95">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.538" cy="0.026" r="1.228" gradientUnits="objectBoundingBox">
+      <stop offset="0.134" stop-color="#fff"/>
+      <stop offset="0.342" stop-color="#fbfcfc"/>
+      <stop offset="0.521" stop-color="#f1f4f6"/>
+      <stop offset="0.689" stop-color="#dfe6eb"/>
+      <stop offset="0.85" stop-color="#c6d4db"/>
+      <stop offset="1" stop-color="#a8bdc9"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.54" cy="0.053" r="1.233" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-3" cx="0.542" cy="0.081" r="1.236" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-4" cx="0.545" cy="0.109" r="1.238" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-5" cx="0.547" cy="0.136" r="1.239" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-6" cx="0.55" cy="0.164" r="1.237" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-7" cx="0.552" cy="0.192" r="1.235" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-8" cx="0.554" cy="0.22" r="1.23" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-9" cx="0.557" cy="0.247" r="1.225" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-10" cx="0.559" cy="0.275" r="1.218" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-11" cx="0.562" cy="0.303" r="1.209" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-12" cx="0.564" cy="0.33" r="1.199" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-13" cx="0.566" cy="0.358" r="1.188" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-14" cx="0.569" cy="0.386" r="1.176" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-15" cx="0.571" cy="0.413" r="1.162" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-16" cx="0.574" cy="0.441" r="1.148" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-17" cx="0.576" cy="0.469" r="1.132" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-18" cx="0.578" cy="0.496" r="1.115" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-19" cx="0.581" cy="0.524" r="1.098" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-20" cx="0.583" cy="0.552" r="1.08" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-21" cx="0.586" cy="0.58" r="1.061" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-22" cx="0.588" cy="0.607" r="1.042" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-23" cx="0.59" cy="0.635" r="1.022" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-24" cx="0.593" cy="0.663" r="1.003" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-25" cx="0.595" cy="0.69" r="0.983" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-26" cx="0.598" cy="0.718" r="0.964" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-27" cx="0.6" cy="0.746" r="0.946" gradientTransform="translate(0)" xlink:href="#radial-gradient"/>
+  </defs>
+  <g id="Grupo_4897" data-name="Grupo 4897" transform="translate(-707.602 -149.023)">
+    <image id="Rectángulo_2752" data-name="Rectángulo 2752" width="94" height="95" transform="translate(707.601 149.023)" opacity="0.2" xlink:href="data:image/png;base64,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" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <g id="Grupo_4896" data-name="Grupo 4896">
+      <g id="Grupo_4895" data-name="Grupo 4895">
+        <g id="Grupo_4893" data-name="Grupo 4893">
+          <g id="Grupo_4892" data-name="Grupo 4892">
+            <circle id="Elipse_456" data-name="Elipse 456" cx="43.342" cy="43.342" r="43.342" transform="translate(709.822 151.599)" fill="url(#radial-gradient)"/>
+            <path id="Trazado_36338" data-name="Trazado 36338" d="M795.769,194.012a42.615,42.615,0,1,1-43.533-41.674A42.615,42.615,0,0,1,795.769,194.012Z" fill="url(#radial-gradient-2)"/>
+            <path id="Trazado_36339" data-name="Trazado 36339" d="M795.031,193.084a41.907,41.907,0,1,1-43.723-40.008A41.908,41.908,0,0,1,795.031,193.084Z" fill="url(#radial-gradient-3)"/>
+            <path id="Trazado_36340" data-name="Trazado 36340" d="M794.292,192.155a41.221,41.221,0,1,1-43.913-38.341A41.222,41.222,0,0,1,794.292,192.155Z" fill="url(#radial-gradient-4)"/>
+            <path id="Trazado_36341" data-name="Trazado 36341" d="M793.553,191.226a40.559,40.559,0,1,1-44.1-36.673A40.558,40.558,0,0,1,793.553,191.226Z" fill="url(#radial-gradient-5)"/>
+            <path id="Trazado_36342" data-name="Trazado 36342" d="M792.815,190.3a39.921,39.921,0,1,1-44.292-35.007A39.922,39.922,0,0,1,792.815,190.3Z" fill="url(#radial-gradient-6)"/>
+            <path id="Trazado_36343" data-name="Trazado 36343" d="M792.076,189.369a39.308,39.308,0,1,1-44.482-33.34A39.308,39.308,0,0,1,792.076,189.369Z" fill="url(#radial-gradient-7)"/>
+            <path id="Trazado_36344" data-name="Trazado 36344" d="M791.338,188.441a38.722,38.722,0,1,1-44.672-31.673A38.721,38.721,0,0,1,791.338,188.441Z" fill="url(#radial-gradient-8)"/>
+            <path id="Trazado_36345" data-name="Trazado 36345" d="M790.6,187.512a38.164,38.164,0,1,1-44.862-30.006A38.163,38.163,0,0,1,790.6,187.512Z" fill="url(#radial-gradient-9)"/>
+            <path id="Trazado_36346" data-name="Trazado 36346" d="M789.861,186.583a37.635,37.635,0,1,1-45.052-28.338A37.635,37.635,0,0,1,789.861,186.583Z" fill="url(#radial-gradient-10)"/>
+            <path id="Trazado_36347" data-name="Trazado 36347" d="M789.122,185.655a37.136,37.136,0,1,1-45.241-26.672A37.135,37.135,0,0,1,789.122,185.655Z" fill="url(#radial-gradient-11)"/>
+            <path id="Trazado_36348" data-name="Trazado 36348" d="M788.383,184.726a36.669,36.669,0,1,1-45.431-25.005A36.668,36.668,0,0,1,788.383,184.726Z" fill="url(#radial-gradient-12)"/>
+            <path id="Trazado_36349" data-name="Trazado 36349" d="M787.645,183.8a36.235,36.235,0,1,1-45.621-23.338A36.233,36.233,0,0,1,787.645,183.8Z" fill="url(#radial-gradient-13)"/>
+            <path id="Trazado_36350" data-name="Trazado 36350" d="M786.906,182.869A35.835,35.835,0,1,1,741.095,161.2,35.834,35.834,0,0,1,786.906,182.869Z" fill="url(#radial-gradient-14)"/>
+            <path id="Trazado_36351" data-name="Trazado 36351" d="M786.168,181.94a35.47,35.47,0,1,1-46-20A35.469,35.469,0,0,1,786.168,181.94Z" fill="url(#radial-gradient-15)"/>
+            <path id="Trazado_36352" data-name="Trazado 36352" d="M785.429,181.012a35.142,35.142,0,1,1-46.19-18.337A35.139,35.139,0,0,1,785.429,181.012Z" fill="url(#radial-gradient-16)"/>
+            <path id="Trazado_36353" data-name="Trazado 36353" d="M784.69,180.083a34.85,34.85,0,1,1-46.38-16.67A34.847,34.847,0,0,1,784.69,180.083Z" fill="url(#radial-gradient-17)"/>
+            <path id="Trazado_36354" data-name="Trazado 36354" d="M783.952,179.154a34.6,34.6,0,1,1-46.57-15A34.6,34.6,0,0,1,783.952,179.154Z" fill="url(#radial-gradient-18)"/>
+            <path id="Trazado_36355" data-name="Trazado 36355" d="M783.213,178.226a34.383,34.383,0,1,1-46.76-13.336A34.38,34.38,0,0,1,783.213,178.226Z" fill="url(#radial-gradient-19)"/>
+            <path id="Trazado_36356" data-name="Trazado 36356" d="M782.475,177.3a34.209,34.209,0,1,1-46.95-11.669A34.206,34.206,0,0,1,782.475,177.3Z" fill="url(#radial-gradient-20)"/>
+            <path id="Trazado_36357" data-name="Trazado 36357" d="M781.736,176.369a34.075,34.075,0,1,1-47.139-10A34.072,34.072,0,0,1,781.736,176.369Z" fill="url(#radial-gradient-21)"/>
+            <path id="Trazado_36358" data-name="Trazado 36358" d="M781,175.44a33.983,33.983,0,1,1-47.329-8.335A33.98,33.98,0,0,1,781,175.44Z" fill="url(#radial-gradient-22)"/>
+            <path id="Trazado_36359" data-name="Trazado 36359" d="M780.259,174.511a33.931,33.931,0,1,1-47.519-6.668A33.928,33.928,0,0,1,780.259,174.511Z" fill="url(#radial-gradient-23)"/>
+            <path id="Trazado_36360" data-name="Trazado 36360" d="M779.52,173.583a33.921,33.921,0,1,1-47.709-5A33.916,33.916,0,0,1,779.52,173.583Z" fill="url(#radial-gradient-24)"/>
+            <path id="Trazado_36361" data-name="Trazado 36361" d="M778.782,172.654a33.953,33.953,0,1,1-47.9-3.334A33.95,33.95,0,0,1,778.782,172.654Z" fill="url(#radial-gradient-25)"/>
+            <path id="Trazado_36362" data-name="Trazado 36362" d="M778.043,171.725a34.025,34.025,0,1,1-48.088-1.667A34.021,34.021,0,0,1,778.043,171.725Z" fill="url(#radial-gradient-26)"/>
+            <path id="Trazado_36363" data-name="Trazado 36363" d="M777.3,170.8a34.139,34.139,0,1,1-48.279,0A34.135,34.135,0,0,1,777.3,170.8Z" fill="url(#radial-gradient-27)"/>
+          </g>
+          <path id="Trazado_36364" data-name="Trazado 36364" d="M719.294,194.942a33.87,33.87,0,1,1,33.871,33.87A33.871,33.871,0,0,1,719.294,194.942Z" fill="none" stroke="#000d1f" stroke-miterlimit="10" stroke-width="2.123"/>
+        </g>
+        <g id="Grupo_4894" data-name="Grupo 4894">
+          <path id="Trazado_36365" data-name="Trazado 36365" d="M753.322,177.377c-4.225,0-11.464,1.921-11.464,12.415,0,11.994,11.464,23.244,11.464,23.244s11.463-11.25,11.463-23.244C764.785,180.116,757.546,177.377,753.322,177.377Z" fill="#14032e"/>
+          <circle id="Elipse_457" data-name="Elipse 457" cx="5.164" cy="5.164" r="5.164" transform="matrix(0.013, -1, 1, 0.013, 748.092, 193.936)" fill="#fafcfb"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

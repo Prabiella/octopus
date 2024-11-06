@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <!-- Meta Tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+       <!-- description -->
+       <meta name="description" content="">
+        <!-- Page Title -->
+        <title>Octopus || Base de datos</title>
+        <!-- Favicon -->
+        <link rel="icon" type="image/png" href="octopus/img/favicon-icon.png" sizes="179x179">
+        <!-- Plugin Css -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+            <!--DataTables-->
+        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.1/css/jquery.dataTables.min.css">
+
+        <!-- Style Sheet -->
+        <link rel="stylesheet" href="octopus/css/style.css">
+        <!-- Custom Style CSS File -->
+        <link rel="stylesheet" href="octopus/css/custom.css">    
+    </head>
+<body data-spy="scroll" data-target=".navbar-nav" data-offset="90">
+
+<!-- Loader -->
+<div class="loader" id="loader-fade">
+    <div class="dot-container">
+        <img src="octopus/img/loading/loading-fondo.gif" alt="loading">
+    </div>
+</div>
+<!-- Loader ends -->
+
+<!-- Header start -->
+<header class="cursor-light">
+    <nav class="navbar d-flex justify-content-center align-items-center">
+        <a class="mt-2" style="width: 150px;" href="index.html">
+            <img src="octopus/img/main_logos_octopus/octopus-servicios-integrales-home.svg" alt="Octopus">
+        </a>
+    </nav>
+    <!--Side Menu-->
+</header>
+<!-- Header end -->
+
+<!--Form-->
+<section id="contact" class="p-0 my-3 p-5 formContacto text-black">
+    <table id="myTable" class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Fecha</th>
+                <th>Nombre Completo</th>
+                <th>Teléfono de contacto</th>
+                <th>Empresa</th>
+                <th>Correo electrónico</th>
+                <th>Servicio de interés</th>
+                <th>Mensaje</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>12-11-2022</td>
+                <td>Juan Pérez</td>
+                <td>5512341234</td>
+                <td>Dish</td>
+                <td>xd@dd.com</td>
+                <td>Contact center</td>
+                <td>
+                <!-- Button trigger modal -->
+                <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#modal-1"> ver más +
+                </button>
+                <!-- Modal -->
+                <div class="modal fade" id="modal-1" tabindex="-1" aria-labelledby="modal-1" aria-hidden="true">
+                    <div class="modal-dialog d-flex flex-column">
+                        <div class="modal-content bg-white d-flex align-items-center p-2">
+                                <button type="button" class="btn-close align-self-end" data-bs-dismiss="modal" aria-label="Close">
+                                </button>
+                            <div class="modal-body">
+                                <p class="text-black mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis voluptatum inventore laudantium natus ratione velit delectus dicta enim totam maxime.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </td>
+            </tr> 
+            <tr>
+                <td>2</td>
+                <td>12-11-2022</td>
+                <td>Luis Díaz</td>
+                <td>5598765432</td>
+                <td>Dish</td>
+                <td>xd@dfg.com</td>
+                <td>Cobranza</td>
+                <td>
+                <!-- Button trigger modal -->
+                <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#modal-2"> ver más +
+                </button>
+                <!-- Modal -->
+                <div class="modal fade" id="modal-2" tabindex="-1" aria-labelledby="modal-2" aria-hidden="true">
+                    <div class="modal-dialog d-flex flex-column">
+                        <div class="modal-content bg-white d-flex align-items-center p-2">
+                                <button type="button" class="btn-close align-self-end" data-bs-dismiss="modal" aria-label="Close">
+                                </button>
+                            <div class="modal-body">
+                                <p class="text-black mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis voluptatum inventore laudantium natus ratione velit delectus dicta enim totam maxime. Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis velit adipisci nesciunt quis expedita voluptates delectus veritatis doloremque aliquam necessitatibus, exercitationem, tenetur error et omnis, molestias ipsa soluta excepturi praesentium?</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>13-11-2022</td>
+                <td>Javier Dominguez</td>
+                <td>5512398746</td>
+                <td>Dish</td>
+                <td>xd@dfg.com</td>
+                <td>Servicios en campo</td>
+                <td>
+                <!-- Button trigger modal -->
+                <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#modal-3"> ver más +
+                </button>
+                <!-- Modal -->
+                <div class="modal fade" id="modal-3" tabindex="-1" aria-labelledby="modal-3" aria-hidden="true">
+                    <div class="modal-dialog d-flex flex-column">
+                        <div class="modal-content bg-white d-flex align-items-center p-2">
+                                <button type="button" class="btn-close align-self-end" data-bs-dismiss="modal" aria-label="Close">
+                                </button>
+                            <div class="modal-body">
+                                <p class="text-black mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </td>
+            </tr> 
+            <tr>
+                <td>4</td>
+                <td>13-11-2022</td>
+                <td>Daniela Ramírez</td>
+                <td>5555005500</td>
+                <td>Dish</td>
+                <td>xd@dfg.com</td>
+                <td>Contact-center</td>
+                <td>
+                <!-- Button trigger modal -->
+                <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#modal-4"> ver más +
+                </button>
+                <!-- Modal -->
+                <div class="modal fade" id="modal-4" tabindex="-1" aria-labelledby="modal-4" aria-hidden="true">
+                    <div class="modal-dialog d-flex flex-column">
+                        <div class="modal-content bg-white d-flex align-items-center p-2">
+                                <button type="button" class="btn-close align-self-end" data-bs-dismiss="modal" aria-label="Close">
+                                </button>
+                            <div class="modal-body">
+                                <p class="text-black text-center mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>14-11-2022</td>
+                <td>Carlos Mora</td>
+                <td>5510296547</td>
+                <td>Dish</td>
+                <td>xd@dfg.com</td>
+                <td>Cobranza</td>
+                <td>
+                <!-- Button trigger modal -->
+                <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#modal-5"> ver más +
+                </button>
+                <!-- Modal -->
+                <div class="modal fade" id="modal-5" tabindex="-1" aria-labelledby="modal-5" aria-hidden="true">
+                    <div class="modal-dialog d-flex flex-column">
+                        <div class="modal-content bg-white d-flex align-items-center p-2">
+                                <button type="button" class="btn-close align-self-end" data-bs-dismiss="modal" aria-label="Close">
+                                </button>
+                            <div class="modal-body">
+                                <p class="text-black text-center mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae quibusdam tenetur tempora? Vel, asperiores numquam.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>15-11-2022</td>
+                <td>Rodrigo Martínez</td>
+                <td>5510296547</td>
+                <td>Dish</td>
+                <td>xd@dfg.com</td>
+                <td>Cobranza</td>
+                <td>
+                <!-- Button trigger modal -->
+                <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#modal-6"> ver más +
+                </button>
+                <!-- Modal -->
+                <div class="modal fade" id="modal-6" tabindex="-1" aria-labelledby="modal-6" aria-hidden="true">
+                    <div class="modal-dialog d-flex flex-column">
+                        <div class="modal-content bg-white d-flex align-items-center p-2">
+                                <button type="button" class="btn-close align-self-end" data-bs-dismiss="modal" aria-label="Close">
+                                </button>
+                            <div class="modal-body">
+                                <p class="text-black text-center mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae quibusdam tenetur tempora? Vel, asperiores numquam. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum itaque illo autem provident mollitia iste, vel quos? A, atque aspernatur.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </td>
+            </tr>  
+            <tr>
+                <td>7</td>
+                <td>15-11-2022</td>
+                <td>Rosa Camacho</td>
+                <td>5511495766</td>
+                <td>Dish</td>
+                <td>xd@dfg.com</td>
+                <td>Contact center</td>
+                <td>
+                <!-- Button trigger modal -->
+                <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#modal-7"> ver más +
+                </button>
+                <!-- Modal -->
+                <div class="modal fade" id="modal-7" tabindex="-1" aria-labelledby="modal-7" aria-hidden="true">
+                    <div class="modal-dialog d-flex flex-column">
+                        <div class="modal-content bg-white d-flex align-items-center p-2">
+                                <button type="button" class="btn-close align-self-end" data-bs-dismiss="modal" aria-label="Close">
+                                </button>
+                            <div class="modal-body">
+                                <p class="text-black text-center mb-3">Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </td>
+            </tr> 
+            <tr>
+                <td>8</td>
+                <td>16-11-2022</td>
+                <td>Braulio Paredes</td>
+                <td>5558905766</td>
+                <td>Dish</td>
+                <td>xd@dfg.com</td>
+                <td>Servicios en campo</td>
+                <td>
+                <!-- Button trigger modal -->
+                <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#modal-8"> ver más +
+                </button>
+                <!-- Modal -->
+                <div class="modal fade" id="modal-8" tabindex="-1" aria-labelledby="modal-8" aria-hidden="true">
+                    <div class="modal-dialog d-flex flex-column">
+                        <div class="modal-content bg-white d-flex align-items-center p-2">
+                                <button type="button" class="btn-close align-self-end" data-bs-dismiss="modal" aria-label="Close">
+                                </button>
+                            <div class="modal-body">
+                                <p class="text-black text-center mb-3">Lorem ipsum dolor sit amet consectetur adipisicing Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti voluptatum quo laudantium dolorem ipsa quisquam expedita ducimus aperiam fugit ab at, error rerum odit nemo adipisci. Voluptate expedita, voluptatem similique sit cupiditate inventore illo quaerat ducimus! Vitae quas repellat laudantium nihil natus quisquam obcaecati fugit?</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </td>
+            </tr> 
+            <tr>
+                <td>9</td>
+                <td>16-11-2022</td>
+                <td>Renata Rivera</td>
+                <td>5576543266</td>
+                <td>Dish</td>
+                <td>xd@dfg.com</td>
+                <td>Servicios en campo</td>
+                <td>
+                <!-- Button trigger modal -->
+                <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#modal-9"> ver más +
+                </button>
+                <!-- Modal -->
+                <div class="modal fade" id="modal-9" tabindex="-1" aria-labelledby="modal-9" aria-hidden="true">
+                    <div class="modal-dialog d-flex flex-column">
+                        <div class="modal-content bg-white d-flex align-items-center p-2">
+                                <button type="button" class="btn-close align-self-end" data-bs-dismiss="modal" aria-label="Close">
+                                </button>
+                            <div class="modal-body">
+                                <p class="text-black text-center mb-3">Lorem ipsum dolor sit amet consectetur adipisicing Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </td>
+            </tr>  
+            <tr>
+                <td>10</td>
+                <td>19-11-2022</td>
+                <td>Sofía Rojas</td>
+                <td>5688993266</td>
+                <td>Dish</td>
+                <td>xd@dfg.com</td>
+                <td>Cobranza</td>
+                <td>
+                <!-- Button trigger modal -->
+                <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#modal-10"> ver más +
+                </button>
+                <!-- Modal -->
+                <div class="modal fade" id="modal-10" tabindex="-1" aria-labelledby="modal-10" aria-hidden="true">
+                    <div class="modal-dialog d-flex flex-column">
+                        <div class="modal-content bg-white d-flex align-items-center p-2">
+                                <button type="button" class="btn-close align-self-end" data-bs-dismiss="modal" aria-label="Close">
+                                </button>
+                            <div class="modal-body">
+                                <p class="text-black text-center mb-3">Lorem ipsum dolor sit amet consectetur adipisicing Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, fuga!</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>22-11-2022</td>
+                <td>Ramón López</td>
+                <td>5599884433</td>
+                <td>Dish</td>
+                <td>xd@dfg.com</td>
+                <td>Contact-center</td>
+                <td>
+                <!-- Button trigger modal -->
+                <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#modal-11"> ver más +
+                </button>
+                <!-- Modal -->
+                <div class="modal fade" id="modal-11" tabindex="-1" aria-labelledby="modal-11" aria-hidden="true">
+                    <div class="modal-dialog d-flex flex-column">
+                        <div class="modal-content bg-white d-flex align-items-center p-2">
+                                <button type="button" class="btn-close align-self-end" data-bs-dismiss="modal" aria-label="Close">
+                                </button>
+                            <div class="modal-body">
+                                <p class="text-black text-center mb-3">Lorem ipsum dolor sit amet consectetur adipisicing Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, fuga Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam veniam quidem, ea harum excepturi ullam fugiat, nulla laudantium voluptas aperiam, perspiciatis velit corrupti tempore? Placeat!</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </td>
+            </tr>                      
+        </tbody>
+
+        <tfoot>
+            <tr>
+                <th>ID</th>
+                <th>Fecha</th>
+                <th>Nombre Completo</th>
+                <th>Teléfono de contacto</th>
+                <th>Empresa</th>
+                <th>Correo electrónico</th>
+                <th>Servicio de interés</th>
+                <th>Mensaje</th>
+            </tr>
+        </tfoot>
+    </table>
+</section>
+
+<!--End Form-->
+
+<!-- Start Footer -->
+<footer id="site-footer" class="mx-3 bgprimary padding_top ui-block-06 footer">
+    <div class="text-left mx-5">
+        <div class="row align-items-baseline">
+            <div class="col-lg-3 col-md-12 col-sm-12">
+                <div class="footer_panel padding_bottom_half bottom20 d-flex flex-column align-items-center align-items-md-start">
+                    <a href="index.html" class="bottom25"><img class="footer_logo" src="octopus/img/main_logos_octopus/Octopus_soluciones_integrales.svg" alt="Octopus"></a>
+                    <div class="mt-4 text-center text-md-start">
+                        <p style="font-size: 14px;line-height: 0.4;">ESCRÍBENOS A</p>
+                        <a class="d-block text-white" href="mailto:contacto@octopusmx.com?subject=Deseo%20informaci%C3%B3n%20sobre%20los%20servicios%20de%20Octopus&body=Hola%2C%20deseo%20informaci%C3%B3n%20sobre%20los%20servicios%20de%20Octopus%0ADejo%20mis%20datos%20para%20que%20me%20contacten%0A%0ANombre%3A%0ATel%C3%A9fono%20de%20contacto%3A%0AServicios%20de%20inter%C3%A9s%3A%0AEmpresa%3A%20%0A%0A" target="_blank">contacto@octopusmx.com</a>                      
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-9 col-md-12 col-sm-12 d-flex flex-wrap flex-md-nowrap gap-4 justify-content-center justify-content-md-end mb-4 mb-md-0">
+                <div class="foot-logs">
+                    <div class="footer_panel padding_bottom_half bottom20">
+
+                        <a href="contact-center.html">
+                            <img src="octopus/img/footer/fot-contact.svg" alt="Contact center">
+                        </a>
+                    </div>
+                </div>
+                <div class="foot-logs">
+                    <div class="footer_panel padding_bottom_half bottom20">
+                        <a href="cobranza.html">
+                            <img src="octopus/img/footer/fot-cobranza.svg" alt="Cobranza">
+                        </a>
+                    </div>
+                </div>
+                <div class="foot-logs">
+                    <div class="footer_panel padding_bottom_half bottom20">
+                        <a href="logistica.html">
+                            <img src="octopus/img/footer/fot-logist.svg" alt="Logistica">
+                        </a>
+                    </div>
+                </div>
+                <div class="foot-logs">
+                    <div class="footer_panel padding_bottom_half bottom20">
+                        <a href="servicios-campo.html">
+                            <img src="octopus/img/main_logos_octopus/octopus-servicios-en-campo.svg" alt="Servicios en campo">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</footer>
+<!-- End Footer -->
+<!--Start Cintillo footer-->
+<div class="footer-band d-flex justify-content-end pr-5">
+<img class="m-3" src="octopus/img/main_logos_octopus/grupo_mvs.svg" alt="mvs-logo">
+</div>
+<!-- Start Legal -->
+<div class="col-12 d-flex justify-content-center align-items-center legal">
+    <div class="mx-3 my-2">
+        <a class="text-white" href="aviso-de-privacidad.html" target="_blank">Aviso de privacidad</a>
+    </div>
+    <div class="mx-3 my-2">
+        <a class="text-white" href="octopus/legal/formato_arco_2022.pdf" target="_blank">Formato de Ayuda para Solicitud ARCO</a>
+    </div>
+    </div>
+<!--End Legal -->
+<!--End Cintillo footer-->
+<!--Start Legend-->
+<div class="mx-5 mt-3 mb-4">
+    <p class="legend-text">
+        Derechos Reservados DM Servicio Inmediato, S. de R.L. de C.V. Prohibida su Reproducción Total o Parcial. Todo el material, incluyendo imágenes, texto, ilustraciones, diseños, íconos, fotografías, programas, videos, marcas, marcas tridimensionales y en general y cualquier otro material parte de este sitio constituyen derechos de autor o bien corresponden a terceros que han licenciado o concedido el uso de sus materiales por lo que están protegidos por leyes mexicanas e internacionales. El acceso a este sitio no otorga de ninguna forma, ni deberá entenderse como si otorgara licencia, cesión o autorización de los derechos de propiedad intelectual, ni de los terceros propietarios de marcas, logos, nombres comerciales y cualquier otro contenido de este sitio.
+    </p>
+</div>
+<!--End Legend-->
+
+
+
+<!--DataTables-->
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.min.js"></script>
+
+
+<script>
+$(document).ready(function() {
+    $('#myTable').DataTable( {
+        responsive: true,
+        language: {
+            url: 'https://cdn.datatables.net/plug-ins/1.13.1/i18n/es-MX.json'
+        }
+    } );
+} );
+ </script>
+<!-- custom script -->
+<script src="octopus/js/script.js"></script>
+
+
+<!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+
+</body>
+</html>

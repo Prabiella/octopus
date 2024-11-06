@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="222.802" height="187.557" viewBox="0 0 222.802 187.557">
+  <g id="personal" transform="translate(-1059 -1643.499)">
+    <g id="Grupo_5945" data-name="Grupo 5945" transform="translate(16 -25.501)">
+      <g id="Grupo_5940" data-name="Grupo 5940" transform="translate(105 219)" opacity="0.198">
+        <g id="Rectángulo_2984" data-name="Rectángulo 2984" transform="translate(938 1450)" fill="none" stroke="#fff" stroke-width="1">
+          <rect width="222.802" height="187.557" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="221.802" height="186.557" rx="4.5" fill="none"/>
+        </g>
+        <rect id="Rectángulo_3059" data-name="Rectángulo 3059" width="222.802" height="187.557" rx="5" transform="translate(938 1450)" fill="#fff" opacity="0.045"/>
+      </g>
+      <g id="Grupo_5941" data-name="Grupo 5941" transform="translate(1002.459 1700)">
+        <text id="vehículos_y_sistema_de_gestión_móvil" data-name="vehículos y sistema
+ de gestión móvil" transform="translate(151.541 96.237)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="-96" y="0">vehículos y sistema</tspan><tspan x="-85" y="24" xml:space="preserve"> de gestión móvil</tspan></text>
+        <path id="garage_FILL0_wght400_GRAD0_opsz48" d="M8.978,69.707A4.776,4.776,0,0,1,4.05,64.779V8.928a4.913,4.913,0,0,1,1.4-3.409A4.589,4.589,0,0,1,8.978,4H64.829a4.713,4.713,0,0,1,3.409,1.519,4.713,4.713,0,0,1,1.519,3.409V64.779a4.589,4.589,0,0,1-1.519,3.532,4.913,4.913,0,0,1-3.409,1.4Zm0-4.928H64.829V8.928H8.978V64.779ZM24.173,44a2.388,2.388,0,1,1,1.766-.7A2.393,2.393,0,0,1,24.173,44Zm25.462,0a2.388,2.388,0,1,1,1.766-.7A2.393,2.393,0,0,1,49.634,44ZM13.906,34.718v22.34a1.963,1.963,0,0,0,1.971,1.971h.986a1.867,1.867,0,0,0,1.437-.575,1.978,1.978,0,0,0,.534-1.4V51.8H54.973v5.257a1.963,1.963,0,0,0,1.971,1.971h.986a1.867,1.867,0,0,0,1.437-.575,1.977,1.977,0,0,0,.534-1.4V34.718L54.48,18.948a4.1,4.1,0,0,0-1.355-1.889,3.318,3.318,0,0,0-2.094-.739H22.777a3.318,3.318,0,0,0-2.094.739,4.1,4.1,0,0,0-1.355,1.889Zm6.324-3.45,3.285-10.02H50.291l3.367,10.02ZM8.978,8.928v0Zm9.856,37.946V36.2H54.973V46.874Z" transform="translate(115.533 -4)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
