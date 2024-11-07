@@ -4809,6 +4809,7 @@ label {
     color: white; /* Color del texto */
     text-decoration: none; /* Sin subrayado */
     transition: background-color 0.3s ease; /* Solo transición para el color de fondo */
+    font-size: 0.9rem;
 }
 
 .icon-redes li .UneteUs1:hover {
@@ -4816,6 +4817,13 @@ label {
     border: 1px solid #fff;
 }
 
+ul.icon-redes.mt-3 {
+    width: 290px;
+}
+
+.submarcas ul li img {
+    max-width: 220px !important;
+}
 /*Dropdown*/
 .dropdown-toggle::after {
     display: none;
