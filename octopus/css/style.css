@@ -1713,7 +1713,7 @@ header.header-appear .navbar-top-default .header-social a:hover {
 
 .side-menu .inner-wrapper {
     padding: 3rem 3rem;
-    height: 35%;
+    height: 50%;
     position: relative;
     overflow-y: auto;
     display: -webkit-box;
@@ -4800,6 +4800,7 @@ label {
     padding: 5px 10px;
     border-radius: 20px;
     background-color: #46395F;
+    font-size: 0.8rem;
 }
 
 .icon-redes li .UneteUs1 {
