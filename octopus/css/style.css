@@ -4782,6 +4782,17 @@ label {
     background-color: #ffffff;
 }
 
+.MenuRs li{
+    display: inline-block;
+}
+
+.MenuRs li .UneteUs {
+    margin-left: 10px;
+    padding: 5px 10px;
+    border-radius: 20px;
+    background-color: #46395F;
+    font-size: 0.8rem;
+}
 
 .footermvsHub img{
    margin: 0 auto;
@@ -4794,6 +4805,7 @@ label {
     display: inline-block;
     margin-right: 3px;
 }
+
 
 .icon-redes li .UneteUs{
     margin-left: 10px;
@@ -5019,6 +5031,10 @@ ul.icon-redes.mt-3 {
     .ui-block-08.team-sec .inner-team-sec .team-area .team-nav.team-prev {
         left: 20px;
     }
+
+    ul.icon-redes.mt-3 {
+        display: none;
+    }
 }
 
 @media screen and (max-width:767px) {
@@ -5043,6 +5059,10 @@ ul.icon-redes.mt-3 {
     }
     .foot-logs img {
         width: 130px !important;
+    }
+
+    ul.icon-redes.mt-3 {
+        display: none;
     }
 }
 
